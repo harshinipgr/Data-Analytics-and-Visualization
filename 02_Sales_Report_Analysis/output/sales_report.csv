@@ -1,0 +1,13 @@
+Order_ID,Month,Product,Category,Quantity,Price,Revenue
+1001,January,Laptop,Electronics,2,55000,110000
+1002,January,Mouse,Accessories,10,700,7000
+1003,February,Keyboard,Accessories,5,1200,6000
+1004,February,Monitor,Electronics,3,15000,45000
+1005,March,Printer,Electronics,2,12000,24000
+1006,March,Headphones,Accessories,6,1800,10800
+1007,April,Laptop,Electronics,1,56000,56000
+1008,April,Mouse,Accessories,8,750,6000
+1009,May,Monitor,Electronics,4,14800,59200
+1010,May,Keyboard,Accessories,7,1250,8750
+1011,June,Printer,Electronics,2,11800,23600
+1012,June,Headphones,Accessories,5,2000,10000

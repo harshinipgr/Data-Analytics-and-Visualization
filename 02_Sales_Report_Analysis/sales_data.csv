@@ -1,0 +1,13 @@
+Order_ID,Month,Product,Category,Quantity,Price
+1001,January,Laptop,Electronics,2,55000
+1002,January,Mouse,Accessories,10,700
+1003,February,Keyboard,Accessories,5,1200
+1004,February,Monitor,Electronics,3,15000
+1005,March,Printer,Electronics,2,12000
+1006,March,Headphones,Accessories,6,1800
+1007,April,Laptop,Electronics,1,56000
+1008,April,Mouse,Accessories,8,750
+1009,May,Monitor,Electronics,4,14800
+1010,May,Keyboard,Accessories,7,1250
+1011,June,Printer,Electronics,2,11800
+1012,June,Headphones,Accessories,5,2000
